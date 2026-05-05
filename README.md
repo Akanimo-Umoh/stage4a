@@ -4,12 +4,6 @@ A Manifest V3 Chrome Extension that extracts content from any webpage and genera
 
 ---
 
-## 📸 Demo
-
-> [Insert link to demo video here]
-
----
-
 ## 🚀 Features
 
 - Extracts meaningful content from any webpage

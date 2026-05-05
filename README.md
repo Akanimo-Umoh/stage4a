@@ -4,6 +4,12 @@ A Manifest V3 Chrome Extension that extracts content from any webpage and genera
 
 ---
 
+## Demo URL
+
+[Watch here](https://github.com/Akanimo-Umoh/stage4a.git)
+
+---
+
 ## 🚀 Features
 
 - Extracts meaningful content from any webpage
@@ -104,7 +110,7 @@ Page content is trimmed to 8,000 characters before being sent to the AI. Very lo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/page-summarizer.git
+   git clone https://github.com/Akanimo-Umoh/stage4a.git
    cd page-summarizer
    ```
 

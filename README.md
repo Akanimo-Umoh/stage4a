@@ -6,7 +6,7 @@ A Manifest V3 Chrome Extension that extracts content from any webpage and genera
 
 ## Demo URL
 
-[Watch here](https://github.com/Akanimo-Umoh/stage4a.git)
+[Watch here](https://drive.google.com/file/d/1huvRI_haGcFvzlVnAd5EmtI24j-HCYgf/view?usp=drive_link)
 
 ---
 
